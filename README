@@ -1,5 +1,24 @@
-jquery.jfontsize2
+jQuery jFontSize2 Plugin
 
-Pseudo-fork of jquery.jfontsize from http://www.jfontsize.com/
+Based on jQuery jFontSize Plugin (http://jfontsize.com)
+
+Author: Anders Johnson
+ AndersDJohnson@gmail.com
+ http://github.com/AndersDJohnson
+
+License:
+ Dual licensed under the MIT and GPL licenses.
+
+Original Author:
+ Frederico Soares Vanelli
+  fredsvanelli@gmail.com
+  http://twitter.com/fredvanelli
+  http://facebook.com/fred.vanelli
+
+Original License:
+ Dual licensed under the MIT and GPL licenses.
+ http://jfontsize.com/license
+
+Requires: jQuery v1.2.6 or later
 
 

@@ -23,8 +23,22 @@
  * Requires: jQuery v1.2.6 or later
 ###
 
-( ($) ->
-	$.fn.jfontsize = (opts) ->
+###
+Uses AMD or browser globals to create a jQuery plugin.
+ See http://github.com/umdjs/umd/blob/master/jqueryPlugin.js
+###
+
+(((factory) ->
+	if typeof define is 'function' and define.amd
+		#AMD. Register as an anonymous module.
+		define ['jquery'], factory
+	else
+		#Browser globals
+		factory jQuery
+
+)( (($) ->
+	
+    $.fn.jfontsize = (opts) ->
 		
 		$this = $(this)
 		
@@ -112,4 +126,4 @@
 					changeFontSize.call(this, i, 1)
 			)
 		)
-)(jQuery)
+)))

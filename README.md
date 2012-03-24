@@ -13,20 +13,21 @@ Based on jQuery jFontSize Plugin (http://jfontsize.com)
 
 - - -
 
-Author: Anders Johnson
- AndersDJohnson@gmail.com
- http://github.com/AndersDJohnson
+### Author
+Anders Johnson  
+AndersDJohnson@gmail.com  
+http://github.com/AndersDJohnson  
 
-License:
+### License
  Dual licensed under the MIT and GPL licenses.
 
-Original Author:
- Frederico Soares Vanelli
-  fredsvanelli@gmail.com
-  http://twitter.com/fredvanelli
-  http://facebook.com/fred.vanelli
+### Original Author
+ Frederico Soares Vanelli  
+  fredsvanelli@gmail.com  
+  http://twitter.com/fredvanelli  
+  http://facebook.com/fred.vanelli  
 
-Original License:
- Dual licensed under the MIT and GPL licenses.
- http://jfontsize.com/license
+### Original License
+ Dual licensed under the MIT and GPL licenses.  
+ http://jfontsize.com/license  
 

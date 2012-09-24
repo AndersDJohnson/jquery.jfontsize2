@@ -15,7 +15,7 @@ Based on jQuery jFontSize Plugin (http://jfontsize.com)
 
 ### Author
 Anders Johnson  
-AndersDJohnson@gmail.com  
+< AndersDJohnson atsign gmail dot com >
 http://github.com/AndersDJohnson  
 
 ### License
